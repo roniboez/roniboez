@@ -1,0 +1,18 @@
+.class1 {
+  background-color: #8B008B;
+  width: 300px;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+  font-family: cursive;
+  box-sizing: border-box;
+}
+
+.class2 {
+  background-color: #8B008B;
+  width: 200px;
+  border: 20px solid black;
+  padding: 40px;
+  margin: 40px;
+  font-family: cursive;
+box-sizing: border-box;
